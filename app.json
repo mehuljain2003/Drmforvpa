@@ -11,22 +11,22 @@
     "success_url": "https://t.me/jattprab",
     "stack": "container",
     "env": {
-        "API_ID": {
+        "API_ID": {22940312
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
             "value": "",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": {82fb5cd2de25e4c01021b8bbae9909bb
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
             "value": "",
             "required": true
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {7951805164:AAH3r5QZi4y-bhvbwitwB8c4PI1L7AThoyA
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
             "value": "",
             "required": true
         },
-        "token_cp":{
+        "token_cp":{eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTUwMDM5MzMzLCJvcmdJZCI6MzQ0Nzc3LCJ0eXBlIjoxLCJtb2JpbGUiOiI5MTkyMTQwMzAyNzIiLCJuYW1lIjoiTWVqdSIsImVtYWlsIjoibWVodWxqYWlubW1AZ21haWwuY29tIiwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJjb3VudHJ5SVNPIjoiOTEiLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiaXNEaXkiOmZhbHNlLCJvcmdDb2RlIjoidmZmankiLCJpc0RpeVN1YmFkbWluIjowLCJmaW5nZXJwcmludElkIjoiYzgyMTI2NGRlYmxrOGZiM2UyYTYwYmRiZDRlZjcyYTNiOSIsImlhdCI6MTc0NjI0ODMyNCwiZXhwIjoxNzQ2ODUzMTI0fQ.nYoWlT6IFNxXLPmDP541HPuQRT4TdihF2OERDTcxj2eoaR8QMlGDs_zfulZeibJi
             "description": "𝘌𝘯𝘵𝘦𝘳 𝘞𝘰𝘳𝘬𝘪𝘯𝘨 𝘊𝘭𝘢𝘴𝘴𝘱𝘭𝘶𝘴 𝘛𝘰𝘬𝘦𝘯",
             "value": "",
             "required": true
